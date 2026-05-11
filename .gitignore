@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+
+# Dados (arquivos grandes)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Credenciais
+.env
+.aws/
+
+# VS Code
+.vscode/
