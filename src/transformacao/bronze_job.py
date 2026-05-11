@@ -1,4 +1,4 @@
-import sys
+
 import boto3
 import pandas as pd
 import pyarrow as pa

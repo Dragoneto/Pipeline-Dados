@@ -1,5 +1,5 @@
 import boto3
-import os
+
 from pathlib import Path
 
 BUCKET = "pipeline-vagas-davi"
